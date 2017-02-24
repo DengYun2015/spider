@@ -1,0 +1,10 @@
+{
+  "require":{
+    "guzzlehttp/guzzle": "*"
+  },
+  "autoload":{
+    "psr-4": {
+      "phpQuery\\":"vendor/phpquery/phpQuery/"
+    }
+  }
+}
